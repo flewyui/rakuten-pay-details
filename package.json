@@ -10,8 +10,11 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.2.7",
     "@types/react-dom": "^18.0.0",
+    "axios": "^1.4.0",
+    "googleapis": "^118.0.0",
     "react": "^18.2.0",
     "react-dom": "npm:@hot-loader/react-dom",
+    "react-router-dom": "^6.11.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
@@ -40,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
     "@typescript-eslint/eslint-plugin": "^5.59.8",
     "eslint": "^8.41.0",
     "eslint-config-airbnb": "^19.0.4",
